@@ -22,8 +22,8 @@
 ---
 
 ## 🏆 Coding Stats
-![Codewars Badge](https://www.codewars.com/users/donatio3/badges/small)
-[![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white)]([https://www.codewars.com/users/your-username](https://www.codewars.com/users/donatio3))
+[![Codewars Badge](https://www.codewars.com/users/donatio3/badges/small)](https://www.codewars.com/users/donatio3)
+[![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/donatio3)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/sinatkron/)
 
 ---
