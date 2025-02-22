@@ -1,4 +1,4 @@
-# Hi there, I'm Dmitri Zagoruico, Frontend Developer! 👋
+# Hi there, I'm Dmitri Zagoruico, a Frontend Developer 👋
 
 ## 🚀 Tech Stack
 
@@ -30,7 +30,7 @@
 
 ### 🔥 About Me
 
-I'm a passionate Frontend Developer specializing in building dynamic web applications using React, Next.js, and TypeScript.
+I'm a Frontend Developer specializing in building dynamic web applications using React, Next.js, and TypeScript.
 I have a strong foundation in HTML, CSS (SCSS), and JavaScript, and I leverage modern libraries and frameworks such as React, 
 Redux, and Zustand to create responsive and interactive user interfaces.
 
