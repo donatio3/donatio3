@@ -34,6 +34,8 @@ I'm a Frontend Developer specializing in building dynamic web applications using
 I have a strong foundation in HTML, CSS (SCSS), and JavaScript, and I leverage modern libraries and frameworks such as React, 
 Redux, and Zustand to create responsive and interactive user interfaces.
 
+**My portfolio** https://porfolio-dmitri-zagoruico.vercel.app/
+
 ### Key Skills & Experience:
 - **Next.js & TypeScript:** Proficient in building applications with Next.js, including SSR, ISR, and API Routes.
 - **Modern Web Technologies:** Extensive experience with HTML, CSS (SCSS), and JavaScript.
